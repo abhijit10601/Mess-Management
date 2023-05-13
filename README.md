@@ -15,3 +15,10 @@ Overall, the Mess/Restaurant management system developed during the mentioned pe
 ## Screenshots
 
 ![HOME](https://github.com/abhijit10601/Mess-Management/assets/106448232/4ce40489-4350-49bd-bece-b5b95220ae99)
+
+## Screenshots
+
+![USER](https://github.com/abhijit10601/Mess-Management/assets/106448232/dbc2a67b-8a13-46cd-afca-84ec43fb82c7)
+
+## Screenshots
+![ADMIN](https://github.com/abhijit10601/Mess-Management/assets/106448232/da9fffa8-ad48-4efe-b05e-e0cc8ea2a766)
