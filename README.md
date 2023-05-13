@@ -11,3 +11,7 @@ Moreover, the system provides online functionalities for users to access various
 Furthermore, the system allows users to provide feedback and reviews. Users can share their experiences, suggestions, or complaints, providing valuable insights to the management. This feedback mechanism helps the management understand the needs and preferences of the users, facilitating improvements in service quality.
 
 Overall, the Mess/Restaurant management system developed during the mentioned period provides essential functionalities for user registration, attendance management, progress monitoring, and online access to information. Its tech-stack, including PHP, HTML5, CSS, Bootstrap, MySQL, and XAMPP, ensures a robust and user-friendly system.
+
+## Screenshots
+
+![HOME](https://github.com/abhijit10601/Mess-Management/assets/106448232/4ce40489-4350-49bd-bece-b5b95220ae99)
